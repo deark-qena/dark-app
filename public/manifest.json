@@ -1,0 +1,26 @@
+{
+  "short_name": "دارك",
+  "name": "دارك للخدمات العقارية وسكن الطلاب",
+  "description": "منصة دارك الرائدة في قنا للخدمات العقارية المتكاملة وسكن الطلاب المغتربين والمهندسين. نوفر أرقى الشقق للإيجار والبيع بمعايير أمان مع صيانة فورية متكاملة.",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1BmuyrN5RhzDF-wnzG7Y-8-nYyAgWM2my",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1BmuyrN5RhzDF-wnzG7Y-8-nYyAgWM2my",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#163B63",
+  "theme_color": "#163B63",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "categories": ["business", "travel", "utilities"]
+}
