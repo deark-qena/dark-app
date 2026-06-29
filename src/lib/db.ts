@@ -15,12 +15,12 @@ const SAMPLE_PROPERTIES: Property[] = [
     type: "student_male",
     category: "student_housing",
     status: "available",
-    imageUrls: [
-      "https://drive.google.com/file/d/1PQDQp64t5p3MrNd_X02O4oaCmF6jurvZ/view",
-      "https://drive.google.com/file/d/1KrsX2Z7X6vBk3GGkLUy0Fd70EZ6uKFOX/view",
-      "https://drive.google.com/file/d/1vgUQ5FdVTDZoTO5XT9m2WvmvHwZJ1QH8/view",
-      "https://drive.google.com/file/d/1mDWs7FkJC7BfVs03gOIXHfYA4Hi7MOk9/view"
-    ],
+imageUrls: [
+  "https://drive.google.com/file/d/1On7QkR1IxSBko7NZUNjDmmrNoH9NnzLv/view",
+  "https://drive.google.com/file/d/13ezqBPkpkuCKNsYHdRhAtdkr0vc753kC/view",
+  "https://drive.google.com/file/d/1PBJL68j1Yww3KpWz7ViNNfQq9grcOsxU/view",
+  "https://drive.google.com/file/d/1DEGCVTAmx-ZsmaWLmagkaX8pmfFKhR32/view"
+],
     rooms: 3,
     bathrooms: 1,
     area: 120,
@@ -40,11 +40,11 @@ const SAMPLE_PROPERTIES: Property[] = [
     type: "student_male",
     category: "student_housing",
     status: "available",
-    imageUrls: [
-      "https://drive.google.com/file/d/1PPFPHypLK5tlWDW05U3b0fh7uQ7KdBj7/view",
-      "https://drive.google.com/file/d/16a1CW2IWhI92g067ISLdgB5XocORgC3b/view",
-      "https://drive.google.com/file/d/15pJQoiiQJ2LGDisPTw1TMV1bdWoXjJTX/view"
-    ],
+imageUrls: [
+  "https://drive.google.com/file/d/1QegVW9MMNJMuZZ0ylcUeWuA5VjcqwxlH/view",
+  "https://drive.google.com/file/d/1UrioZ4IkC5LBlLqefXvr0DGr8zJ5vgBB/view",
+  "https://drive.google.com/file/d/1FMTydOnaYdJVhAawxIAvBmF3v7Snk5v2/view"
+],
     rooms: 3,
     bathrooms: 1,
     area: 130,
@@ -66,12 +66,12 @@ const SAMPLE_PROPERTIES: Property[] = [
     type: "student_male",
     category: "student_housing",
     status: "available",
-    imageUrls: [
-      "https://drive.google.com/file/d/1nMLj-fRft7JeO97ED_J90UX2QgecVMBR/view",
-      "https://drive.google.com/file/d/1oQh-Ri1EXyhwzkVe8hyexhp27LUDFZjD/view",
-      "https://drive.google.com/file/d/15kHW_svvpKW1SFKeCy01Mg2vHcXx2GvO/view",
-      "https://drive.google.com/file/d/1_3NZIhblYw6tluqu4VB8m1SWKU1pN7pT/view"
-    ],
+imageUrls: [
+  "https://drive.google.com/file/d/1-XlcYnun4CrhrRfLEX2WZlJ5PWrvFqOG/view",
+  "https://drive.google.com/file/d/1s5r8vJ3lff7yAozpCD9lx1lIorvnzzuX/view",
+  "https://drive.google.com/file/d/1uRCgY8DUrZ7U23ZRzL04tYMu5V0OlU96/view",
+  "https://drive.google.com/file/d/1tU1VOx9Yvi7kONVmZh6CwG-CMq4V3zH8/view"
+],
     rooms: 3,
     bathrooms: 1,
     area: 120,
@@ -93,12 +93,11 @@ const SAMPLE_PROPERTIES: Property[] = [
     type: "student_male",
     category: "student_housing",
     status: "available",
-    imageUrls: [
-      "https://drive.google.com/file/d/1Gd0Xip5x6nFirckcQSQquS1bJwJW4_E6/view",
-      "https://drive.google.com/file/d/1BAJFuk8Auh9065ApCsNysODFBHjYRVZE/view",
-      "https://drive.google.com/file/d/1_aW128ADsIWJcOCFsl3pv1sMKiD7S_1H/view",
-      "https://drive.google.com/file/d/14kkY7JgfmNPR5nhdjvVmiWBQRlH8OpeQ/view"
-    ],
+imageUrls: [
+  "https://drive.google.com/file/d/1tiRgLMnep3tAUgCsqIr1TOyPTWwQKrB2/view",
+  "https://drive.google.com/file/d/1PDr2rAcksFRXl0nq7tKbik7TAXWVI5TC/view",
+  "https://drive.google.com/file/d/1ubEEd6dt7Xgrc43R4tkut9zbJhsySF9X/view"
+],
     rooms: 3,
     bathrooms: 1,
     area: 125,
@@ -121,7 +120,7 @@ const SAMPLE_PROPERTIES: Property[] = [
     category: "student_housing",
     status: "available",
     imageUrls: [],
-    videoUrl: "https://drive.google.com/file/d/1dFZfZDt7TuSLPAEY286k9r4Xf37f41dB/view",
+    videoUrl: "https://drive.google.com/file/d/1OHhMvIxK-EEMvu10yDMEdqCTCQblPjN0/view",
     rooms: 3,
     bathrooms: 1,
     area: 120,
