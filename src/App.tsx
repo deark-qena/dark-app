@@ -528,7 +528,7 @@ export default function App() {
                   arSub: 'سكن مجهز بالكامل',
                   enSub: 'Fully Equipped Dorms',
                   icon: GraduationCap,
-                  bgImage: 'https://lh3.googleusercontent.com/d/1rh_xhhHGEUNNTFr52vT0vRzI1R1sjNj9',
+                  bgImage: 'https://lh3.googleusercontent.com/d/1-8bNU_Ee8memkXDyrVTtpa2RsD0Kgtkd',
                 },
                     {
                       id: 'family_rentals',
